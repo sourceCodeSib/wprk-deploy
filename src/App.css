@@ -1,0 +1,18 @@
+.App {
+  background-image: url('background.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Content {
+ 
+  min-height: 50vh;
+  padding-top: 50vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
