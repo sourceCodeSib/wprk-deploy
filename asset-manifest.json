@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wprk-deploy/static/css/main.647cbfb9.css",
+    "main.js": "/wprk-deploy/static/js/main.2bfbb5ea.js",
+    "static/js/787.2be8d4a4.chunk.js": "/wprk-deploy/static/js/787.2be8d4a4.chunk.js",
+    "static/media/background.jpg": "/wprk-deploy/static/media/background.12b2873fcc94db851f4f.jpg",
+    "index.html": "/wprk-deploy/index.html",
+    "main.647cbfb9.css.map": "/wprk-deploy/static/css/main.647cbfb9.css.map",
+    "main.2bfbb5ea.js.map": "/wprk-deploy/static/js/main.2bfbb5ea.js.map",
+    "787.2be8d4a4.chunk.js.map": "/wprk-deploy/static/js/787.2be8d4a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.647cbfb9.css",
+    "static/js/main.2bfbb5ea.js"
+  ]
+}
